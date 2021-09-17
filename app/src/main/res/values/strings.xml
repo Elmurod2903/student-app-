@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">AddLesson_47_db</string>
+    <string name="app_name">Student db</string>
     <string name="name">name</string>
     <string name="age">age</string>
     <string name="course">course</string>
