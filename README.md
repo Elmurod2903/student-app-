@@ -2,7 +2,7 @@
 
 Using SQLiteOpenHelper 
 
-Men ma'lumotlarni saqlaydigan dastur yaratganman. Bunda Ma'lumotlar database (xorira)da  saqlanadi.  Ma'lumotlarni yozish uchun va ma'lumotlarni ko'rish uchun 2 ta Activitydan foydalanganman.
+Men ma'lumotlarni saqlaydigan dastur yaratganman. Bunda Ma'lumotlar database (xotira)da  saqlanadi.  Ma'lumotlarni yozish uchun va ma'lumotlarni ko'rish uchun 2 ta Activitydan foydalanganman.
 
 ![first page](https://user-images.githubusercontent.com/82223231/133746458-60389e4f-bb52-40ca-9c5f-ade8b7c9118d.jpg)
 ![second page](https://user-images.githubusercontent.com/82223231/133746671-5dc97a8f-35f9-435b-be2f-2fa83dd2ad87.jpg)
